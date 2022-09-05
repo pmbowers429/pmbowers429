@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pmbowers429
-- 👀 I’m interested in enhancing my programming skills
-- 🌱 I’m currently pursuing front end development
-- 💞️ I’m trying to find new ways to learn software development
+- 🌱 I’m trying to find new ways to learn software development
 - 📫 Reach me via my email at patrickbowers429@gmail.com
 
 <!---
