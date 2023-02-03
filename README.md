@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pmbowers429
-- 🌱 I’m trying to find new ways to learn software development
+- 🌱 I’m learning to become a freelance web developer
 - 📫 Reach me via my email at patrickbowers429@gmail.com
 
 <!---
